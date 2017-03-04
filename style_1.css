@@ -22,14 +22,13 @@
     border: 1px solid black;
     border-radius: 10px;
     margin: 50px 0px 0px 50px;
-    width: 150px;
-    height: 60px;
+    width: 180px;
+    height: 90px;
 }
 .class4 {
     float: left;
     border: 1px solid black;
-    border-radius: 0px;
-    margin: 50px 50px 50px 50px;
-    width: 30px;
-    height: 30px;
+    margin: 0px 60px 40px 10px;
+    width: 60px;
+    height: 60px;
 }
