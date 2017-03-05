@@ -1,34 +1,26 @@
-.class1 {
-    padding: 0px 30px 0px 0px;
-    float: right;
-    border: 1px solid black;
-    border-radius: 10px;
-    margin: 20px;
-    width: 500px;
-    height: 250px;
+@font-face {
+    font-family: Roboto-light;
+    src: url(fonts/Roboto-light.ttf);
 }
-.class2 {
-    padding: 0px;
-    float: left;
-    border: 1px solid black;
-    border-radius: 10px;
-    margin: 0px;
-    width: 70px;
-    height: 60px;
+
+@font-face {
+    font-family:  Roboto-regular;
+    src: url(fonts/Roboto-regular.ttf);
 }
-.class3 {
-    padding: 30px;
-    float: right;
-    border: 1px solid black;
-    border-radius: 10px;
-    margin: 50px 0px 0px 50px;
-    width: 180px;
-    height: 90px;
+
+@font-face {
+    font-family: Citrica Cyrillic;
+    src: url(fonts/Citrica Cyrillic.ttf);
 }
-.class4 {
-    float: left;
-    border: 1px solid black;
-    margin: 0px 60px 40px 10px;
-    width: 60px;
-    height: 60px;
+
+.one {
+    font-family: Roboto-light;
+}
+
+.two {
+    font-family:  Roboto-regular;
+}
+
+.three {
+    font-family: Citrica Cyrillic;
 }
